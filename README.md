@@ -7,7 +7,6 @@
 <p align="left">Where to find me: </p>
 <p>
 <a href="mailto:bhumi.alisa@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://www/linkedin.com/in/alisa-ra" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://www.codewars.com/users/alisadevcat" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars"/></a>
 </p>
  
