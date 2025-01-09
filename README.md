@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Alice</h1>
 
-<img align="left" alt="GIF" src="cat.jpeg" style="padding-right:10px" /> 
+<img align="left" alt="GIF" src="cat.jpeg" />
 
 <p>I'm a passionate web developer, and I'm keen on Design and Development. I really enjoy learning languages and frameworks like React and Next, as well as work with WordPress. I also enjoy wireframing and programming in general.</p>
 
@@ -11,12 +11,14 @@
 	About Me...
 </h2>
 
-- ⛴️ I love shipping products and learning new technologies.
-- 📚 Currently learning Tailwind.
-- 📫 Reach me at: [bhumi.alisa@gmail.com](mailto:bhumi.alisa@gmail.com)
+<ul>
+<li>⛴️ I love shipping products and learning new technologies.</li>
+<li>📚 Currently learning Tailwind.</li>
+<li>📫 Reach me at: <a href="mailto:bhumi.alisa@gmail.com" target="_blank" rel="noreferrer">bhumi.alisa@gmail.com</a></li>
+</ul>
 
-
-<p align="left">Where to find me: </p>
+<br>
+<p align="left">Where to find me: <p>
 <p>
 <a href="mailto:bhumi.alisa@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
  <a href="https://t.me/AlissiaSpb"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -35,5 +37,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
+
+
 
 
